@@ -30,4 +30,4 @@ an interactive dashboard using Microsoft Excel.
 - Screenshots/ — Dashboard images
 
 ## 📸 Dashboard Preview
-(Upload your screenshot here)
+![Dashboard](Dashboard.png)
